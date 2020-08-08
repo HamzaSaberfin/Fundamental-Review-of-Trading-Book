@@ -1,4 +1,4 @@
-# FRTB-Fundamental-Review-of-Trading-Book-
+# FRTB: Fundamental Review of Trading Book
 Given a portfolio composed by 3 corporate bonds AA and IRS, we have compared the new standardized approach with respect to the old internal model approach.
 
 •Implementation of the standardized approach described in the new framework of BCBS.  
